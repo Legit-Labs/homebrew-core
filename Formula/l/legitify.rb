@@ -1,8 +1,8 @@
 class Legitify < Formula
   desc "Tool to detect/remediate misconfig and security risks of GitHub/GitLab assets"
   homepage "https://legitify.dev/"
-  url "https://github.com/Legit-Labs/legitify/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "2d2647dabfb174060b626120142848bd316f2c7a4bb0fcdcc6c6fda31ea5644c"
+  url "https://github.com/Legit-Labs/legitify/archive/refs/tags/v1.0.5.tar.gz"
+  sha256 "9fb17d0ab88a0d98a7a6da67a14eb53dc33821b27d2def696e943a8eeea99893"
   license "Apache-2.0"
   head "https://github.com/Legit-Labs/legitify.git", branch: "main"
 
